@@ -1,1 +1,3 @@
-Andrew Ng Machine Learning Specialization Course 1
+# Advanced Learning Algorithms
+
+Andrew Ng Machine Learning Specialization Course 2
